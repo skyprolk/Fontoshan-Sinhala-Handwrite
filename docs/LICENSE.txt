@@ -1,4 +1,4 @@
-Copyright (c) 2023, GitHub https://github.com/skyprolk/Fontoshan-English-Handwrite
+Copyright (c) 2023, GitHub https://github.com/skyprolk/Fontoshan-Sinhala-Handwrite
 with Reserved Font Name "Fontoshan Sinhala Handwrite"
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
